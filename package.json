@@ -1,0 +1,25 @@
+{
+  "name": "itudersprogramapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ituDersProgramApi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karaketir16/ituDersProgramApi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karaketir16/ituDersProgramApi/issues"
+  },
+  "homepage": "https://github.com/karaketir16/ituDersProgramApi#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4",
+    "restify": "^8.3.3"
+  }
+}
